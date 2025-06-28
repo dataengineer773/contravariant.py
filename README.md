@@ -1,0 +1,3 @@
+i have make simplifying assumptions to classify trash in a neat hirarchy, Refuse : is the most general type of trash,All trash is refuse, Biodegradable : is a specefic type of trash that can be decomposed by organism
+over time.Some Refuse is not Biodegradable, Compostable : is a specefic type of Biodegradable trash that can be effcientlt turned into oraganic fertilizer in a compost bin or in a composing facility.Not all Biodegradable
+trash is Compostable in our definition.I have model the rule for an acceptable trash can in the cafeteria, we need to introduce the concept of"contravariance" through an example using it.
